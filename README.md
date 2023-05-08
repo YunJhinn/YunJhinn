@@ -1,16 +1,21 @@
-### Hi there 👋
+Olá,sou João Vitor Alves
 
-<!--
-**YunJhinn/YunJhinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨‍🎓 Atualmente Estudo em : Serviço Nacional de Aprendizagem Comercial (Senac-Goiás).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      1-Cursando:
+         📚🖥-> Programador Web
+         📚🖥-> 
+         📚🖥-> 
+
+      2- Atualmente Desenvolvendo em:
+          🟢-> Html
+          🟢-> Css
+          🟢-> Bootstrap
+          🟢-> 
+        
+📲 Contatos :
+      
+      1-Telefone: 62 9 94546442
+      2-E-mail: joaovtoralves@gmail.com
+      
