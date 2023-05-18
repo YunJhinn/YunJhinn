@@ -12,7 +12,7 @@ Olá,sou João Vitor Alves
           🟢-> Html
           🟢-> Css
           🟢-> Bootstrap
-          🟢-> 
+          🟢-> JavaScript
         
 📲 Contatos :
       
