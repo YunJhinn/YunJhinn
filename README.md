@@ -5,7 +5,7 @@ Olá,sou João Vitor Alves
 
       1-Cursando:
          📚🖥-> Programador Web
-         📚🖥-> 
+         📚🖥-> Programador de Sistemas
          📚🖥-> 
 
       2- Atualmente Desenvolvendo em:
