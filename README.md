@@ -8,14 +8,17 @@ Olá,sou João Vitor Alves
          📚🖥-> Programador de Sistemas
          📚🖥-> 
 
-      2- Atualmente Desenvolvendo em:
-          🟢-> Html
-          🟢-> Css
-          🟢-> Bootstrap
-          🟢-> JavaScript
+      2- Atualmente Trabalhando com :
+          🟢-> Html (front)
+          🟢-> Css (front)
+          🟢-> Bootstrap (front-framework)
+          🟢-> JavaScript (front and back)
+          🟢-> PostgreSQL (DBA)
+          🟢-> Brmodelo ( modelagem de DBA)
+          
         
 📲 Contatos :
       
-      1-Telefone: 62 9 94546442
+      1-Telefone: 62 9 94546442 (WhatsApp)
       2-E-mail: joaovtoralves@gmail.com
       
