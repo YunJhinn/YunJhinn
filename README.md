@@ -6,7 +6,7 @@ Olá,sou João Vitor Alves
       1-Formado academicamente em:
       
          👨‍🎓✅ -> Programação  front-end 
-         👨‍🎓✅ -> Porgramação  back-end 
+         👨‍🎓✅ -> Programação  back-end 
 
       1-Cursos:
       
