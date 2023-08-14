@@ -3,12 +3,19 @@ Olá,sou João Vitor Alves
 
 👨‍🎓 Atualmente Estudo em : Serviço Nacional de Aprendizagem Comercial (Senac-Goiás).
 
-      1-Cursando:
-         📚🖥-> Programador Web
-         📚🖥-> Programador de Sistemas
-         📚🖥-> 
+      1-Formado academicamente em:
+      
+         👨‍🎓✅ -> Programação  front-end 
+         👨‍🎓✅ -> Porgramação  back-end 
+
+      1-Cursos:
+      
+         📚🖥-> Programador Web ( Finalizado ✅ )
+         📚🖥-> Programador de Sistemas (Em Andamento💤)
+         📚🖥-> Admnistrador de Banco de dados (Em Andamento💤)
 
       2- Atualmente Trabalhando com :
+      
           🟢-> Html (front)
           🟢-> Css (front)
           🟢-> Bootstrap (front-framework)
