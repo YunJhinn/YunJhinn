@@ -34,6 +34,8 @@ Sou Desenvolvedor Jr e sigo codando e aprendendo todas as linguagens que consigo
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=YunJhinn&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
 
+<img src="ninjafinal.webp" width ="200px" align= "right" >
+
 
   
 
