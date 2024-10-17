@@ -33,12 +33,23 @@ Sou Desenvolvedor Jr e sigo codando e aprendendo todas as linguagens que consigo
     </div>
 
 
+
+
+
+
+# 🌌IN ENGLISH🐱‍🐉
+
 # 🐱‍👤 Welcome to my GitHub, it's good to see you here!!!
 
 
 I'm a Junior Developer and I continue coding and learning all the languages ​​I can, like a ninja... haha
-
-  this is my [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-3a3043270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+<div id="badges">
+  <a href = "https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-3a3043270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</div>
 
   
 - 🐱‍💻 Graduate student in Software Engineering at [UNIASSELVI](https://portal.uniasselvi.com.br/).
