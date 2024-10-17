@@ -6,7 +6,14 @@ Sou Desenvolvedor Jr e sigo codando e aprendendo todas as linguagens que consigo
 
   esse é meu [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-3a3043270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 
+- 🐱‍💻 Estudante de graduação em Engenharia de Software na [UNIASSELVI](https://portal.uniasselvi.com.br/).
+- 🐱‍👓 Estudante de programção/desenvolvimento fullstack na [UDEMY](https://www.udemy.com/).
+- 🐱‍💻 Estudante de programação/desenvolvimento fullstack no [SENAC-GOIÁS](https://www.go.senac.br/).
+- 🐱‍👓 Estudante de programação/desenvolivmento fullstack na [DATA SCIENCE ACADEMY](https://www.datascienceacademy.com.br/).
+  
 ---
+
+
 
   <div><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
