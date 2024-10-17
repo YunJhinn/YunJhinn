@@ -17,12 +17,8 @@ Sou Desenvolvedor Jr e sigo codando e aprendendo todas as linguagens que consigo
 - 🐱‍👓 Estudante de programação/desenvolvimento fullstack na [UDEMY](https://www.udemy.com/).
 - 🐱‍💻 Estudante de programação/desenvolvimento fullstack no [SENAC-GOIÁS](https://www.go.senac.br/).
 - 🐱‍👓 Estudante de programação/desenvolivmento fullstack na [DATA SCIENCE ACADEMY](https://www.datascienceacademy.com.br/).
-  
----
 
-
-
-  <div><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<div><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="JavaScript" alt="Css" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -31,6 +27,12 @@ Sou Desenvolvedor Jr e sigo codando e aprendendo todas as linguagens que consigo
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="JavaScript" alt="postgresql" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="JavaScript" alt="postman" width="40" height="40"/>&nbsp;
     </div>
+  
+---
+
+
+
+  
 
 ---
 ---
@@ -65,7 +67,6 @@ I'm a Junior Developer and I continue coding and learning all the languages ​�
 - 🐱‍💻 Fullstack programming/development student at [SENAC-GOIÁS](https://www.go.senac.br/).
 - 🐱‍👓 Fullstack programming/development student at [DATA SCIENCE ACADEMY](https://www.datascienceacademy.com.br/)
 
----
 <div><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="JavaScript" alt="Css" width="40" height="40"/>&nbsp;
@@ -75,3 +76,5 @@ I'm a Junior Developer and I continue coding and learning all the languages ​�
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="JavaScript" alt="postgresql" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="JavaScript" alt="postman" width="40" height="40"/>&nbsp;
     </div>
+---
+
