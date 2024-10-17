@@ -1,4 +1,4 @@
-<img src="ninja.webp" width ="325px" align= "right" img-border-radius="50px">
+<img src="ninja.webp" width ="325px" align= "right" style="img{border-radius: 50%}">
 
 # 🐱‍👤 Seja Bem vindo(a) ao meu GitHub,é bom te ver por aqui!!!
 
