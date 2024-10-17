@@ -79,5 +79,10 @@ I'm a Junior Developer and I continue coding and learning all the languages â€‹â
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="JavaScript" alt="postgresql" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="JavaScript" alt="postman" width="40" height="40"/>&nbsp;
     </div>
----
+    
+    ---
+    <div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunJhinn&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=YunJhinn&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+</div>
 
