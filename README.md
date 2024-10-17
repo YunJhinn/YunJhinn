@@ -4,14 +4,14 @@
 
 Sou Desenvolvedor Jr e sigo codando e aprendendo todas as linguagens que consigo, como um ninja... haha
 <div id="badges">
-  <a href = "https://github.com/risoflorais">
+  <a href = "https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-3a3043270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </div>
 
-  esse é meu [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-3a3043270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+  
 
 - 🐱‍💻 Estudante de graduação em Engenharia de Software na [UNIASSELVI](https://portal.uniasselvi.com.br/).
 - 🐱‍👓 Estudante de programação/desenvolvimento fullstack na [UDEMY](https://www.udemy.com/).
