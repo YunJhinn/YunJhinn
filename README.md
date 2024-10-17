@@ -14,9 +14,7 @@ Sou Desenvolvedor Jr e sigo codando e aprendendo todas as linguagens que consigo
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="JavaScript" alt="mysql" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="JavaScript" alt="postgresql" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="JavaScript" alt="postman" width="40" height="40"/>&nbsp;
-    <img src="" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;</div>
+    </div>
 
 
 # 🐱‍👤 Welcome to my GitHub, it's good to see you here!!!
